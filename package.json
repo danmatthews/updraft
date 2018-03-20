@@ -1,0 +1,25 @@
+{
+  "name": "updraft",
+  "version": "1.0.0",
+  "description": "A quick starter project for quickly prototyping ideas with TailwindCSS and SCSS.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmatthews/updraft.git"
+  },
+  "author": "Dan Matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmatthews/updraft/issues"
+  },
+  "homepage": "https://github.com/danmatthews/updraft#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0",
+    "tailwindcss": "^0.5.1"
+  }
+}
